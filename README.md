@@ -4,7 +4,6 @@ https://www.youtube.com/watch?v=nBzCS-Y0FcY&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDD
 
 
 
-## 帧缓冲后处理， phone光照，贴图，透明图片混合
 
 三角形边界分割
 ![source](./render3d/1.gif)
